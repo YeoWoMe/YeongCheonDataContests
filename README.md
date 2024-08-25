@@ -4,7 +4,7 @@ D.N.A 2024-session 1
 <p align="center"><img src="https://github.com/user-attachments/assets/f0e3cb27-5bf3-4590-8cb3-23b90d4bd03a" width="300" height="500"/></p>
 
 ## Project Summary
-- 대회명 : 영천시 공공데이터 경진대회 - 시각화부문 ##장려상🏅##
+- 대회명 : 영천시 공공데이터 경진대회 - 시각화부문 #장려상🏅#
 - 팀명 : 최고4양
 - 주제 : 군집화로 알아보는 영천시내 지역불균형 및 해소방안 제시
   GMM(Gaussian Mixture Model)과 PCA(차원축소) 기법 사용

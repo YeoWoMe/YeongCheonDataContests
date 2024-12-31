@@ -1,9 +1,14 @@
-# 경기대학교 응용통계학과 교내통계자료분석경진대회
+# YEONGCHEON DATA CON
+D.N.A 2024-session 1 
+
+<p align="center"><img src="https://github.com/user-attachments/assets/f0e3cb27-5bf3-4590-8cb3-23b90d4bd03a" width="300" height="500"/></p>
+
 ## Project Summary
-- 대회명 : 경기대학교 응용통계학과 교내통계자료분석경진대회
-- 팀명 : 통통대장
-- 주제 : 교내 통학 환경 개선을 위한 통학 셔틀버스 운영 지역 선정
-- AHP, TOPSIS 기법 이용
+- 대회명 : 영천시 공공데이터 경진대회 - 시각화부문 장려상🏅
+- 팀명 : 최고4양
+- 주제 : 군집화로 알아보는 영천시내 지역불균형 및 해소방안 제시 \
+  GMM(Gaussian Mixture Model)과 PCA(차원축소) 기법 사용
+- 데이터셋 : 공공데이터포털, 경상북도빅데이터포털 등
 - 기술스택<div align=left> 
 	`전처리` : 
 	<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
@@ -20,4 +25,3 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 	    <br>
 	</div>
-

@@ -25,4 +25,3 @@ D.N.A 2024-session 1
 	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 	    <br>
 	</div>
-
